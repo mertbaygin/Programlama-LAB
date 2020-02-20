@@ -1,3 +1,4 @@
+# verilen sayının üssünü bulan python kodu
 def power(a,b):
   if b==0:
     return 1
@@ -9,7 +10,9 @@ def power(a,b):
     else:
       return power(a*a,b//2)*a
     
-    *************************************************
+*************************************************
+# verilen bir sayı dizisin de ardışık sayılar arasında en büyük olanı bulma
+
 liste=[4,-3,5,-2,-1,2,6,-2]
 max_=0
 for i in range(8):

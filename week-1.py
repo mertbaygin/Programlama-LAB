@@ -12,7 +12,7 @@ def power(a,b):
     
 *************************************************
 
-##bir dizi içeriden de ardışık sayılar seçilerek en buyuk toplam bulma
+#bir dizi içeriden de ardışık sayılar seçilerek en buyuk toplam bulma
 
 liste=[4,-3,5,-2,-1,2,6,-2]
 max_=0

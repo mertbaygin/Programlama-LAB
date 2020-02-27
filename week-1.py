@@ -11,7 +11,6 @@ def power(a,b):
       return power(a*a,b//2)*a
     
 *************************************************
-# verilen bir sayı dizisin de ardışık sayılar arasında en büyük olanı bulma -1
 
 liste=[4,-3,5,-2,-1,2,6,-2]
 max_=0

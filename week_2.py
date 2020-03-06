@@ -1,5 +1,5 @@
 
-#bir dizi içeriden de ardışık sayılar seçilerek en buyuk toplam bulma
+#bir dizi içerisinden ardışık sayılar seçilerek en buyuk toplam bulma
 
 def max_of_two(a,b):
     if(a>b):

@@ -9,10 +9,10 @@ def power(a,b):
       return power(a*a,b//2)
     else:
       return power(a*a,b//2)*a
-    
-*************************************************
-
+  
+  
 #bir dizi içerisinden ardışık sayılar seçilerek en buyuk toplam bulma
+
 
 liste=[4,-3,5,-2,-1,2,6,-2]
 max_=0
